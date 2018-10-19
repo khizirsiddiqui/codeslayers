@@ -22,3 +22,6 @@ Finally, to put to rest concerns over privacy, this feature will use a specific 
 and only the government will be able to use it to track people. Also, only the medics at 
 the site of the disaster will have the authorization to access the medical records stored
 on the phone.
+
+Aviral
+Mr. Khizir
